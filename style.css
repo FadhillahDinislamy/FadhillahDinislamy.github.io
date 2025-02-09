@@ -3,6 +3,7 @@ body {
 }
 #nav-bar {
   background-color: yellow;
+  position: fixed;
   top: 0;
   left: 0;
   width: 1020px:
