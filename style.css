@@ -5,6 +5,6 @@ body {
   position: fixed;
   top: 0;
   height: 123px;
-  width: 1920px;
+  width: 100%;
   background-color: yellow;
 }
