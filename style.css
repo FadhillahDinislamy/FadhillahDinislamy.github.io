@@ -4,6 +4,6 @@ body {
 #nav-bar {
   position: fixed;
   top: 0;
-  width: 1020px;
+  width: 100%;
   background-color: yellow;
 }
