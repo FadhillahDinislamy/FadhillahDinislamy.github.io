@@ -10,3 +10,7 @@ body {
   width: 100%;
   background-color: yellow;
 }
+#nav-bar {
+  position: fixed;
+  left: 30px;
+}
